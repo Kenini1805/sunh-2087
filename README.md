@@ -1,6 +1,11 @@
 <h2> Hi, I'm Su. I'm PHP developer and have good skill for frontend developer  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <p><em>Software Enginner at <a href="https://sun-asterisk.vn">Sun*</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+
+## Dashboard 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunh-2087&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sunh-2087&show_icons=true&theme=synthwave)
 </em></p>
+
 
 
 ## <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> SKILL
@@ -14,6 +19,10 @@
 - Skill Unit Test
 - Deploy manual and auto deploy
 - Using AWS
+
+
+
+
 ## <img src="https://images.viblo.asia/a22cc9ed-e446-4eae-ad55-1ddf8afbaa54.gif" width="30" /> CONTRIBUTE ACTIVITIES
 #### 06/2020
 Contributor at Laravel: https://github.com/laravel/framework/pull/33278
