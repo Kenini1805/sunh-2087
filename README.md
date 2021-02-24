@@ -7,7 +7,6 @@
 ## <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> SKILL
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=sunh-2087&show_icons=true&theme=synthwave">](https://metrics.lecoq.io/ouuan?template=classic)
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunh-2087&show_icons=true&theme=synthwave&layout=compact">](https://metrics.lecoq.io/ouuan?template=classic)
 
 - Understand well about OOP 
 - HTML, CSS, Bootstrap: normal use 
@@ -24,6 +23,8 @@
 
 
 ## <img src="https://images.viblo.asia/a22cc9ed-e446-4eae-ad55-1ddf8afbaa54.gif" width="30" /> CONTRIBUTE ACTIVITIES
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunh-2087&show_icons=true&theme=synthwave&layout=compact">](https://metrics.lecoq.io/ouuan?template=classic)
+
 #### 06/2020
 Contributor at Laravel: https://github.com/laravel/framework/pull/33278
 #### 2019
