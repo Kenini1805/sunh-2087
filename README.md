@@ -8,16 +8,16 @@
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=sunh-2087&show_icons=true&theme=synthwave">](https://metrics.lecoq.io/ouuan?template=classic)
 
 
-- Understand well about OOP 
-- HTML, CSS, Bootstrap: normal use 
-- Have good skill about using Jquery, MySQL, PHP
-- Great at using Laravel framework in design Website 
-- Understand Git 
-- Learning Agile mindset
-- Vuejs and Vuex
-- Skill Unit Test
-- Deploy manual and auto deploy
-- Using AWS
+- Understand well about `OOP` 
+- `HTML`, `CSS`, `Bootstrap`: normal use 
+- Have good skill about using `Jquery`, `MySQL`, `PHP`
+- Great at using `Laravel` framework in design Website 
+- Understand `Git` 
+- Learning `Agile` mindset
+- `Vuejs` and `Vuex`
+- Skill `Unit Test`
+- Deploy manual and `auto deploy`
+- Using `AWS`
 
 
 
