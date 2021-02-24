@@ -1,27 +1,10 @@
-### Hi there 👋
+<h2> Hi, I'm Su. I'm PHP developer and have good skill for frontend developer  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://i.imgur.com/qGlK44i.png" width="230">
+<p><em>Software Enginner at <a href="https://sun-asterisk.vn">Sun*</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+</em></p>
 
-<!--
-**sunh-2087/sunh-2087** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
- 🔭 I’m currently working on Sun*
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: No pain no gain
--->
-
-🔭 I’m currently working on Sun* with position `fullstack developer`
-## SKILL
-#### Soft skill
-- Proficient use Word, Excel, Power Point tools 
-- Have basic English communication skill 
-- Good at teamwork
-#### Computer
+## <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> SKILL
 - Understand well about OOP 
 - HTML, CSS, Bootstrap: normal use 
 - Have good skill about using Jquery, MySQL, PHP
@@ -32,7 +15,7 @@ Here are some ideas to get you started:
 - Skill Unit Test
 - Deploy manual and auto deploy
 - Using AWS
-## CERTIFICATIONS
+## <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> CERTIFICATIONS
 #### 06/2020
 Contributor at Laravel: https://github.com/laravel/framework/pull/33278
 #### 2019
@@ -44,7 +27,7 @@ Owner package Laravel monitoring, Nginx monitoring
 - https://github.com/AvengersCodeLovers/laravel-log-monitoring
 - https://github.com/AvengersCodeLovers/nginx-log-monitoring
 
-## ABOUT ME
+## <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> ABOUT ME
 💬 Ask me about: https://storyofsu.com
 
 ⚡ Fun fact: No pain no gain
