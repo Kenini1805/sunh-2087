@@ -15,7 +15,7 @@
 - Skill Unit Test
 - Deploy manual and auto deploy
 - Using AWS
-## <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> CERTIFICATIONS
+## <img src="https://images.viblo.asia/a22cc9ed-e446-4eae-ad55-1ddf8afbaa54.gif" width="30" /> CONTRIBUTE ACTIVITIES
 #### 06/2020
 Contributor at Laravel: https://github.com/laravel/framework/pull/33278
 #### 2019
@@ -27,7 +27,7 @@ Owner package Laravel monitoring, Nginx monitoring
 - https://github.com/AvengersCodeLovers/laravel-log-monitoring
 - https://github.com/AvengersCodeLovers/nginx-log-monitoring
 
-## <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> ABOUT ME
+## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me about: https://storyofsu.com
 
 ⚡ Fun fact: No pain no gain
