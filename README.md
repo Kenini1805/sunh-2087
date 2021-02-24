@@ -3,7 +3,7 @@
 
 </em></p>
 
-## Dashboard 
+## <img src="https://i.imgur.com/UJ28LDz.jpg" width="30" />Talk is cheap, show me your commit  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunh-2087&show_icons=true&theme=synthwave)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sunh-2087&show_icons=true&theme=synthwave)
 
