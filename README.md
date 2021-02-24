@@ -1,5 +1,4 @@
 <h2> Hi, I'm Su. I'm PHP developer and have good skill for frontend developer  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://i.imgur.com/qGlK44i.png" width="230">
 <p><em>Software Enginner at <a href="https://sun-asterisk.vn">Sun*</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
