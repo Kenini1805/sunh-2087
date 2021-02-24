@@ -3,15 +3,12 @@
 
 </em></p>
 
-## <img src="https://i.imgur.com/UJ28LDz.jpg" width="30" />Talk is cheap, show me your commit  
-#### Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunh-2087&show_icons=true&theme=synthwave)
-#### Language
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sunh-2087&show_icons=true&theme=synthwave)
-
-
 
 ## <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> SKILL
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=sunh-2087&show_icons=true&theme=synthwave">](https://metrics.lecoq.io/ouuan?template=classic)
+
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunh-2087&show_icons=true&theme=synthwave&layout=compact">](https://metrics.lecoq.io/ouuan?template=classic)
+
 - Understand well about OOP 
 - HTML, CSS, Bootstrap: normal use 
 - Have good skill about using Jquery, MySQL, PHP
