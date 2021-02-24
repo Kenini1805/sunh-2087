@@ -26,17 +26,17 @@
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunh-2087&show_icons=true&theme=synthwave&layout=compact">](https://metrics.lecoq.io/ouuan?template=classic)
 
 #### 06/2020
-Contributor at Laravel: https://github.com/laravel/framework/pull/33278
+**Contributor at Laravel**: https://github.com/laravel/framework/pull/33278
 #### 2019
 
-Contributor at Chat++: https://github.com/wataridori/chatpp/graphs/contributors
+**Contributor at Chat++**: https://github.com/wataridori/chatpp/graphs/contributors
 
 #### Now
-Owner package Laravel monitoring, Nginx monitoring
+Owner package `Laravel monitoring`, `Nginx monitoring`
 - https://github.com/AvengersCodeLovers/laravel-log-monitoring
 - https://github.com/AvengersCodeLovers/nginx-log-monitoring
 
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me about: https://storyofsu.com
 
-⚡ Fun fact: No pain no gain
+⚡ Fun fact: ***No pain no gain***
